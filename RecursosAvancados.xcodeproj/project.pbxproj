@@ -12,6 +12,7 @@
 		818CF3B61D01F3A600533E13 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 818CF3B41D01F3A600533E13 /* Main.storyboard */; };
 		818CF3B81D01F3A600533E13 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 818CF3B71D01F3A600533E13 /* Assets.xcassets */; };
 		818CF3BB1D01F3A600533E13 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 818CF3B91D01F3A600533E13 /* LaunchScreen.storyboard */; };
+		818CF3C31D01F44200533E13 /* space-invaders.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 818CF3C21D01F44200533E13 /* space-invaders.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		818CF3B71D01F3A600533E13 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		818CF3BA1D01F3A600533E13 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		818CF3BC1D01F3A600533E13 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		818CF3C21D01F44200533E13 /* space-invaders.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "space-invaders.jpg"; path = "../../../../space-invaders.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		818CF3AF1D01F3A600533E13 /* RecursosAvancados */ = {
 			isa = PBXGroup;
 			children = (
+				818CF3C21D01F44200533E13 /* space-invaders.jpg */,
 				818CF3B01D01F3A600533E13 /* AppDelegate.swift */,
 				818CF3B21D01F3A600533E13 /* ViewController.swift */,
 				818CF3B41D01F3A600533E13 /* Main.storyboard */,
@@ -124,6 +127,7 @@
 			files = (
 				818CF3BB1D01F3A600533E13 /* LaunchScreen.storyboard in Resources */,
 				818CF3B81D01F3A600533E13 /* Assets.xcassets in Resources */,
+				818CF3C31D01F44200533E13 /* space-invaders.jpg in Resources */,
 				818CF3B61D01F3A600533E13 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
