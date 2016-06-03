@@ -13,6 +13,7 @@
 		818CF3B81D01F3A600533E13 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 818CF3B71D01F3A600533E13 /* Assets.xcassets */; };
 		818CF3BB1D01F3A600533E13 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 818CF3B91D01F3A600533E13 /* LaunchScreen.storyboard */; };
 		818CF3C31D01F44200533E13 /* space-invaders.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 818CF3C21D01F44200533E13 /* space-invaders.jpg */; };
+		818CF3C51D01F76D00533E13 /* MobileCoreServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 818CF3C41D01F76D00533E13 /* MobileCoreServices.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		818CF3BA1D01F3A600533E13 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		818CF3BC1D01F3A600533E13 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		818CF3C21D01F44200533E13 /* space-invaders.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "space-invaders.jpg"; path = "../../../../space-invaders.jpg"; sourceTree = "<group>"; };
+		818CF3C41D01F76D00533E13 /* MobileCoreServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MobileCoreServices.framework; path = System/Library/Frameworks/MobileCoreServices.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,6 +33,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				818CF3C51D01F76D00533E13 /* MobileCoreServices.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -40,6 +43,7 @@
 		818CF3A41D01F3A600533E13 = {
 			isa = PBXGroup;
 			children = (
+				818CF3C41D01F76D00533E13 /* MobileCoreServices.framework */,
 				818CF3AF1D01F3A600533E13 /* RecursosAvancados */,
 				818CF3AE1D01F3A600533E13 /* Products */,
 			);
